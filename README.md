@@ -1,13 +1,16 @@
 # My history
 ----
-## Ситуационный центр Сахалинской области
+## Hello everyone
 ----
-**Работа в BI-системе, разработка и внедрение цифровых продуктов в Правительство области. Построение Dashboard.
-Разработка единой системы ввода KPI сотрудников и дальнейшая интеграция их в единую систему Сахалинской области с использованием Visiology. Губернатор в режиме реального времени получает отчеты о сотрудниках и их работоспособности
-Автоматизация процесса приглашение за совещание путем интеграции бота и внесением в него необходимых данных с использованием Case.one, Bot.one. Сокращение времени у секретаря помогло ей перенаправить свои усилия в другие дела
-Внедрение Региональной Энергетической комиссии в единую цифровую систему и автоматизация расчетов за услуги ЖКХ с автоматической визуализацией полученных результатов.**
+ **Forking in govermenr system**
+----
+**Working for:** 
+1. Working in BI-system
+2. Developing and building Dashboards in VISIOLOGY to receive real-time reports
+3. Working in Case.one and Bot.one to create tasks and bots needed to collect information
 
-### Для связи со мной осталяю ссылку Телеграм: https://t.me/overbehind22
+
+### Link to contact me: https://t.me/overbehind22
 
 <!--
 **lsi2711/lsi2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
